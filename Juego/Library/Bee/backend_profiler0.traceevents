@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1669170545289498, "dur":1593, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1669170545291129, "dur":1077, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1669170545292317, "dur":63, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1122,6 +1123,8 @@
 ,{ "pid":12345, "tid":8, "ts":1669170545370449, "dur":386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1669170545376930, "dur":4111, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
 ,{ "pid":12345, "tid":0, "ts":1668826469774818, "dur":20912, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1668826469795774, "dur":8280, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1668826469804179, "dur":71, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1162,5 +1165,8 @@
 ,{ "pid":12345, "tid":7, "ts":1668826469805303, "dur":6238, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":8, "ts":1668826469805351, "dur":6168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1668826469818029, "dur":743, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
+>>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
+=======
 >>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
 ,

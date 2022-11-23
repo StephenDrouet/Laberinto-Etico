@@ -10,6 +10,7 @@
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "pid": 0, "tid": 1, "ts": 1669170545145783, "dur": 246174, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1669170545147995, "dur": 75540, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1669170545223873, "dur": 157312, "ph": "X", "name": "Run Backend", "args": {} },
@@ -1150,6 +1151,17 @@
 { "pid": 0, "tid": 1, "ts": 1668826498532741, "dur": 987, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1668826498538539, "dur": 1591, "ph": "X", "name": "", "args": {} },
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+=======
+{ "pid": 0, "tid": 1, "ts": 1668826469470964, "dur": 29059122, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826469473007, "dur": 213048, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826469686405, "dur": 140880, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826469827320, "dur": 1960020, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826471787342, "dur": 26732454, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826498519825, "dur": 10260, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826498532741, "dur": 987, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668826498538539, "dur": 1591, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+>>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
 ,{ "pid":12345, "tid":0, "ts":1668826469774818, "dur":20912, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1668826469795774, "dur":8280, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1668826469804179, "dur":71, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -2671,6 +2683,9 @@
 ,{ "pid":12345, "tid":0, "ts":1668826498507070, "dur":6115, "ph":"X", "name": "ProfilerWriteOutput" }
 ,{ "pid": 0, "tid": 1, "ts": 1668826498545103, "dur": 3225, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1668826498535635, "dur": 12774, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+<<<<<<< HEAD
+>>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
+=======
 >>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0)
 {}
 

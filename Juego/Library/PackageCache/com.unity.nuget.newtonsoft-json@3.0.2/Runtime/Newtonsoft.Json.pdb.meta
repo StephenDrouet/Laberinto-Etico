@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Juego/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.pdb.meta
 guid: 7d34f3cc1c0185b4990cf748e55a8688
+========
+guid: 9fc0d4010bbf28b4594072e72b8655ab
+>>>>>>>> parent of 982a2fb7 (LaberintoEtico v1.0.0):Juego/Assets/Scenes/SampleScene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
