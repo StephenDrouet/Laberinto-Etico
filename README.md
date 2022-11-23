@@ -1,2 +1,0 @@
-# Laberinto-Etico
- 
